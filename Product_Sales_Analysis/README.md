@@ -11,11 +11,11 @@ In this project, I used Python Pandas & Python Matplotlib, Seaborn, Numpy librar
 - Numpy
 
 ## Business Questions Asked?
-1. What was the best month for sales? How much was earned that month?
-2. What city sold the most product?
+1. What was the best month for sales and how much was earned that month?
+2. Which city sold the most product?
 3. What time should we display advertisements to maximize likelihood of customer’s buying products?
-4. What is the best payment Channel by City?
-5. What product line sold the most? Why do you think it did?
+4. What is the best payment channel by city?
+5. Which product line sold the most and why do you think it did?
 
 ## Data Visualizations 
 ![Month](https://user-images.githubusercontent.com/92667306/147112618-d7e0063e-86a7-417d-947b-170201af47b6.png)
