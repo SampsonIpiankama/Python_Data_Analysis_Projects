@@ -1,7 +1,7 @@
 # Product Sales Analysis
 
 ## Overview
-In this project, I used Python Pandas & Python Matplotlib, Seaborn, Numpy libraray packages to analyze and answer 5 business questions about a Superstore sales data. The data contains hundreds of thousands of super store purchases broken down by month, product line, Branch, quantity, Cogs, etc.The dataset can be gotten from [Kaggle.com](https://www.kaggle.com/aungpyaeap/supermarket-sales).
+In this project, I used python pandas, matplotlib, seaborn, numpy libraray packages to analyze and answer 5 business questions about a Superstore sales data. The data contains hundreds of thousands of super store purchases broken down by month, product line, branch, quantity, Cogs, etc.The dataset can be gotten from [Kaggle.com](https://www.kaggle.com/aungpyaeap/supermarket-sales).
 
 ## Packages
 - Jupyter Notebook
